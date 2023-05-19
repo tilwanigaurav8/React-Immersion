@@ -1,4 +1,4 @@
-# BeachVille
+# React-Immersion
 
 My first ReactJS project which has ebeen developed for VITB students and Placement Admins to eliminate and add students into Immersion Program.
 
