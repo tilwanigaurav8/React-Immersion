@@ -1,16 +1,17 @@
 # BeachVille
 
-This project is based upon ReactJs and I used the StyledComponents for the first time
+My first ReactJS project which has ebeen developed for VITB students and Placement Admins to eliminate and add students into Immersion Program.
 
 ## Features
 
-1) Features of filtering rooms on basis of facilities, price and maximum guests
-2) Showcasing the resort rooms and facilities with detailed pricing and room viewing options
+1) User authentication for adding/eliminating students as same page is viewed by VITB
+2) By clicking on student card, we get the domain detail of the student
 
-![Screenshot (1038)](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/33722e72-aabb-4cdc-8a5e-d2947d4c0b1b)
+![Screenshot 2023-05-19 140659](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/fb7ba15e-0a73-4524-8d4c-b293303998dc)
 
-![Screenshot (1039)](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/5ac3bf14-6fd4-41c2-b7cd-2dc6d9ea1517)
+![Screenshot 2023-05-19 140726](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/998408e8-895d-49f8-9f3e-70d7366e7ea2)
 
-![Screenshot (1040)](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/6aa1de54-e25f-4408-96b0-85377bc44820)
 
-![Screenshot 2023-05-19 115121](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/3e30e466-1457-45d0-ae45-db7fcb63070c)
+![Screenshot 2023-05-19 140830](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/b234d52f-b404-4e45-b6cb-f60f7392bc8f)
+
+![Screenshot 2023-05-19 140758](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/d0bb5b32-cdce-419c-bb8b-2f120bc886b0)
