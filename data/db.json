@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "XYZ",
+      "body": "Flutter Developer",
+      "author": "BCY",
+      "id": 2
+    },
+    {
+      "title": "Gaurav Tilwani",
+      "body": "Web Development",
+      "author": "BCE",
+      "id": 3
+    },
+    {
+      "title": "LMN",
+      "body": "Data Analytics",
+      "author": "BAI",
+      "id": 4
+    },
+    {
+      "title": "ABC",
+      "body": "Blockchain",
+      "author": "BCG",
+      "id": 5
+    },
+    {
+      "title": "DEF",
+      "body": "App Development",
+      "author": "BCE",
+      "id": 6
+    }
+  ]
+}
