@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# React-Immersion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My first ReactJS project which has ebeen developed for VITB students and Placement Admins to eliminate and add students into Immersion Program.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+1) User authentication for adding/eliminating students as same page is viewed by VITB
+2) By clicking on student card, we get the domain detail of the student
 
-### `npm start`
+![Screenshot 2023-05-19 140659](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/fb7ba15e-0a73-4524-8d4c-b293303998dc)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-05-19 140726](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/998408e8-895d-49f8-9f3e-70d7366e7ea2)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![Screenshot 2023-05-19 140830](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/b234d52f-b404-4e45-b6cb-f60f7392bc8f)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2023-05-19 140758](https://github.com/tilwanigaurav8/React-Immersion/assets/76404274/d0bb5b32-cdce-419c-bb8b-2f120bc886b0)
